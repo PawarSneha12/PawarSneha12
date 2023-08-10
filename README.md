@@ -1,5 +1,5 @@
-# 💫 About Me:
-💫 Hi there 👋, I'm Sneha Pawar<br>✧ I'm pursuing Integrated M.Tech In Artificial Intelligence and Machine Learning.<br>✧ I'm currently working on my Internship project.<br>✧ Ask me about DSA problems, ML algorithms.<br>✧ I can be reached at : pawarsneha720@gmail.com
+# Hi there 👋, I'm Sneha Pawar
+💫About Me:<br>✧ I'm pursuing Integrated M.Tech In Artificial Intelligence and Machine Learning.<br>✧ I'm currently working on my Internship project.<br>✧ Ask me about DSA problems, ML algorithms.<br>✧ I can be reached at : pawarsneha720@gmail.com
 
 
 ## 🌐 Socials:
